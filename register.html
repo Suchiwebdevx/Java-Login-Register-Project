@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>REGISTER PAGE</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    width: 350px;
+    background: linear-gradient(to right, pink, lightblue);
+    text-align: center;
+}
+
+input, button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+h2 {
+    color: #1e293b;
+}
+</style>
+</head>
+<body>
+<h2>user registration:</h2>
+<form action="register" method="post">
+NAME:<input type="text" placeholder="Enter your name" name="name"><br><br>
+EMAIL ID:<input type="text" placeholder="Enter your email" name="email"><br><br>
+CONTACT NUMBER:<input type="number" placeholder="Enter your contact number" name="contact"><br><br>
+PASSWORD:<input type="text" placeholder="Enter your password" name="password"><br><br>
+<input type="submit" value="register">
+</form>
+<br>
+<a href="Login.html" Already have a account?login></a>
+
+</body>
+</html>
