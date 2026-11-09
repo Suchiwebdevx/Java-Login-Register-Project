@@ -2,7 +2,7 @@
 
 A dynamic web-based Login and Registration System developed using Java technologies. The application allows users to create an account, log in, and access the system through authentication.
 
-## ✨ Features
+## ✨ Featurea
 - User Registration
 - User Login
 - User Authentication
