@@ -67,7 +67,7 @@ JavaLoginRegistration/
 
 **Suchi**
 
-GitHub: [SuchiWebdevx](https://github.com/SuchiWebdevx)
+GitHub: [SuchiWebdevx](https://github.com/Suchiwebdevx)
 
 ---
 
